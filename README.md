@@ -42,6 +42,6 @@ You can repeat the process as needed for improved productivity and time manageme
 Enjoy using the Pomodoro Timer to boost your productivity and manage your time effectively! Happy working!
 
 ## Contribution
-Feel free to contribute to this project on GitHub: 
+Feel free to contribute to this project on GitHub: [https://github.com/sunilsuman81/Pomodoro-Time)
 
 If you find any issues or have suggestions for improvement, please create an issue or pull request. Your contributions are highly appreciated!
